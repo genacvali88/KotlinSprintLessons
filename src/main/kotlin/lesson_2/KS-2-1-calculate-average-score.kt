@@ -1,4 +1,5 @@
 package org.example.lesson_2
+
 const val STUDENT_SCORE_SUM = 3 + 4 + 3 + 5
 const val NUMBER_OF_STUDENTS = 4F
 
